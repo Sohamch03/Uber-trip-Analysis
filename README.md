@@ -100,7 +100,7 @@ Edit
 
 
 📜 License
-This project is licensed under the Apache License.
+This project is licensed under the Apache 2.0 License.
 
 
 
@@ -111,12 +111,6 @@ This project is licensed under the Apache License.
 
 
 
-Is this conversation helpful so far?
-
-
-
-
-Ask ChatGPT
 
 
 
