@@ -1,5 +1,7 @@
 🚖 Uber Data Analysis Project – End-to-End with Python
+
 📊 Uncovering Insights from Ride Data with Python
+
 🔍 Project Overview
 In this project, you’ll step into the role of a Data Analyst at Uber, tasked with solving real business problems using ride data. From understanding why users book rides to identifying when and how frequently they book, this project covers it all.
 
